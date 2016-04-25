@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["orhanbalci <orhanbalci@gmail.com>"]
 
 [dependencies]
+rand="*"
 
 [[bin]]
 name="arrays"
@@ -44,3 +45,7 @@ path="src/stdin.rs"
 [[bin]]
 name="tuple_calculator"
 path="src/tuple_calculator.rs"
+
+[[bin]]
+name="guessing_game"
+path="src/guessing_game.rs"
