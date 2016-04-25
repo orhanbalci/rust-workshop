@@ -49,3 +49,7 @@ path="src/tuple_calculator.rs"
 [[bin]]
 name="guessing_game"
 path="src/guessing_game.rs"
+
+[[bin]]
+name="factorial"
+path="src/factorial.rs"
