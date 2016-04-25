@@ -1,0 +1,6 @@
+[package]
+name = "rust-workshop"
+version = "0.1.0"
+authors = ["orhanbalci <orhanbalci@gmail.com>"]
+
+[dependencies]
